@@ -1,5 +1,3 @@
-![Algowit Logo](/Algowit.png)
-
 # Hiring Alerts by Algowit
 
 * Our Instagram handle: https://www.instagram.com/algo_wit/
