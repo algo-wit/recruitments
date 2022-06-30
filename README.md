@@ -6,6 +6,11 @@
 ## Hiring Board
 
 
+* **Amdocs** (June 2022)
+  * Associate Engineer
+    * Bachelor's degree in Science/IT/Computer Science or equivalent
+    * 2022 passouts only
+    * [Click here to apply](https://jobs.amdocs.com/job/Bhurai-In-Off-campus-2022-Associate-Engineer-MH/902362700/)
 * **Google** (May 2022)
   * Software Engineer
     * University Graduate, 2022 Start
