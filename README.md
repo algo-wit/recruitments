@@ -6,6 +6,12 @@
 ## Hiring Board
 
 
+* **Baker Hughes** (June 2022)
+  * Summer Intern 2022 (Engg./Tech.)
+    * Currently enrolled in MTech degree in Computer Science, Chemical, Control/Instrumentation or relevant
+    * Cumulative GPA 3.0/4.0 or equivalent in your country.
+    * Bangalore, Karnataka, India
+    * [Click here to apply](https://careers.bakerhughes.com/global/en/job/R34396/Summer-Internships-2022-India)
 * **Amdocs** (June 2022)
   * Associate Engineer
     * Bachelor's degree in Science/IT/Computer Science or equivalent
