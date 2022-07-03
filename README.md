@@ -6,6 +6,12 @@
 ## Hiring Board
 
 
+
+* **Accenture** (July 2022)
+  * Associate Software Engg (ASE)
+    * All streams/branches of B.E/B.Tech/M.E/M.Tech, MCA, and M.Sc. (CSE, IT only) from 2022 year of pass outs with full-time education only
+    * Location: PAN India
+    * [Click here to apply](https://indiacampus.accenture.com/myzone/accenture/1/jobs/2211/job-details)
 * **Baker Hughes** (June 2022)
   * Summer Intern 2022 (Engg./Tech.)
     * Currently enrolled in MTech degree in Computer Science, Chemical, Control/Instrumentation or relevant
