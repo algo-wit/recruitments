@@ -7,6 +7,11 @@
 
 
 
+* **Siemens** (Nov 2022)
+  * Test Automation Engineer
+    * B.E/B.Tech in Computer Science or Electronics/Electrical with MCA
+    * Location: Gurugram, India
+    * [Click here to apply](https://jobs.siemens.com/jobs/333403?lang=en-us)
 * **Accenture** (July 2022)
   * Associate Software Engg (ASE)
     * All streams/branches of B.E/B.Tech/M.E/M.Tech, MCA, and M.Sc. (CSE, IT only) from 2022 year of pass outs with full-time education only
