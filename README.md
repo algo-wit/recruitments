@@ -7,6 +7,10 @@
 
 
 
+* **TCS** (Nov 2022)
+  * Research Intern
+    * TCS is looking for exceptional and highly-motivated PhD, MS, MTech, or final year BE or BTech students with an aptitude for research in any area of computer science
+    * [Click here to apply](https://www.tcs.com/careers/india/internship)
 * **Siemens** (Nov 2022)
   * Test Automation Engineer
     * B.E/B.Tech in Computer Science or Electronics/Electrical with MCA
